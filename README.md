@@ -2,6 +2,7 @@
 复制网址至浏览器打开（推荐火狐）
 
 https://saftydata.website
+
 https://datasafty.website
 https://encryptdata.website
 https://browsersafty.website
